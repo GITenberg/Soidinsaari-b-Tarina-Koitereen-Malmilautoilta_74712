@@ -1,0 +1,28 @@
+_repo: Soidinsaari-b-Tarina-Koitereen-Malmilautoilta_74712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eronen, Simo
+    birthdate: 1881
+    deathdate: 1936
+    gutenberg_agent_id: '57528'
+    url: http://www.gutenberg.org/2009/agents/57528
+    wikipedia: https://fi.wikipedia.org/wiki/Simo_Eronen
+description: ''
+gutenberg_issued: '2024-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74712'
+language: fi
+pgterms:marc905: 20240801104726eronen
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Soidinsaari : $b Tarina Koitereen Malmilautoilta'
+url: http://www.gutenberg.org/ebooks/74712
